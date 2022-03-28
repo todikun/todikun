@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @todirahmat
+- 👋 Hi, I’m @todikun
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning Laravel, and Django
 - 💞️ I’m looking to collaborate on Web Dev
