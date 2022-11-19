@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @todikun
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning Laravel, and Django
+- 🌱 I’m currently learning Laravel, and Spring Boot
 - 💞️ I’m looking to collaborate on Web Dev
 - 📫 Reach me at todirahmat123@gmail.com
 
